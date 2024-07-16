@@ -1,7 +1,12 @@
+import Layout from "@/app/dashboard/layout";
 
 
-
-
-export default page  = () =>{
-    return (<></>);
+const Page = () => {
+    return (
+        <div>
+            Dashboard
+        </div>);
 }
+
+
+export default Page;

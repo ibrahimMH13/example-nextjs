@@ -1,10 +1,11 @@
 
 
 
-const Page = () =>{
-    return (<div>
-        Customers
-    </div>)
+
+
+
+const Page = () => {
+    return 'Customers Page';
 }
 
 
